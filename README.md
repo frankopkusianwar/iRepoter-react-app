@@ -1,0 +1,2 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/b3c6eee460c6934befef/maintainability)](https://codeclimate.com/github/frankopkusianwar/iRepoter-react-app/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/b3c6eee460c6934befef/test_coverage)](https://codeclimate.com/github/frankopkusianwar/iRepoter-react-app/test_coverage) [![Build Status](https://travis-ci.org/frankopkusianwar/iRepoter-react-app.svg?branch=develop)](https://travis-ci.org/frankopkusianwar/iRepoter-react-app)
+# iRepoter-react-app

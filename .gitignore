@@ -1,0 +1,10 @@
+# node
+node_modules/
+
+# Project
+dist/
+
+package-lock.json
+
+# coverage files
+coverage/
